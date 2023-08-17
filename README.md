@@ -14,7 +14,7 @@ Developed a robust and fully functional Doubly Linked List data structure indivi
 
 - <b>Xcode</b>
 
-<h2>Program walk-through:</h2>
+<h2>Program Thinking:</h2>
 
 <p align="center">
 Play It: <br/>
