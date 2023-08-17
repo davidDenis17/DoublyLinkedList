@@ -17,7 +17,7 @@ Developed a robust and fully functional Doubly Linked List data structure indivi
 <h2>Program Thinking:</h2>
 
 <p align="center">
-Play It: <br/>
+Notes I drew while implementing...: <br/>
 <img src="https://i.imgur.com/rrtVPuR.png" height="80%" width="80%" alt="Minsweeper Walkthrough Steps"/>
 
 </p>
