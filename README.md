@@ -18,7 +18,7 @@ Developed a robust and fully functional Doubly Linked List data structure indivi
 
 <p align="center">
 Notes I drew while implementing...: <br/>
-<img src="https://i.imgur.com/rrtVPuR.png" height="80%" width="80%" alt="Minsweeper Walkthrough Steps"/>
+<img src="https://i.imgur.com/rrtVPuR.png" height="80%" width="80%" alt="Notes Example"/>
 
 </p>
 
